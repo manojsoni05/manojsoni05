@@ -2,7 +2,8 @@
 - 👀 I’m interested in Machine Learning, MLops
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on MLops
-- My Skills : Shell Scripting, Python, HPC Scheduler, Ansible, Git, Jenkins
+- My Skills : Shell Scripting, Python, HPC Scheduler, Ansible, Git, Jenkins, Devops
+- Domains : CAE, Life Sciences, Oil & Gas, Govt Research & Education
 
 
 <!---
